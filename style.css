@@ -34,7 +34,7 @@ main{
 footer{
     background-color:rgb(255, 134, 91);
 }
-textarea{
-    background-color: darkcyan;
-    font-size:17px;
-}
+input{
+color:grey;
+    background-color:green;
+    
